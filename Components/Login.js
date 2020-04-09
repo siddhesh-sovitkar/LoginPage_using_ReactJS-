@@ -71,7 +71,7 @@ class Login extends Component {
         <ThemeProvider theme={theme}>
           <AppBar position="static" style={{ minHeight: 60 }}>
             <Typography variant="h5" style={{ fontSize: 40 }}>
-              <center>V-Canteen</center>
+              <center>AppName</center>
             </Typography>
           </AppBar>
           <br />
